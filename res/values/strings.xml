@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Fitness Health Monitoring App</string>
+
+    <!-- Sign In Screen -->
+    <string name="sign_in_title">Sign In</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="forgot_password_button">Forgot Password?</string>
+    <string name="go_to_sign_up_button">Do not have an account? Sign Up</string>
+
+    <!-- Sign Up Screen -->
+    <string name="sign_up_title">Sign Up</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="go_to_sign_in_button">Already have an account? Sign In</string>
+
+    <!-- Forgot Password Screen -->
+    <string name="forgot_password_title">Forgot Password</string>
+    <string name="reset_password_button">Reset Password</string>
+    <string name="back_to_sign_in_button">Back to Sign In</string>
+
+    <!-- Dashboard Screen -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="activity_tracking_button">Activity Tracking</string>
+    <string name="nutrition_tracking_button">Nutrition Tracking</string>
+
+    <!-- Activity Tracking Screen -->
+    <string name="activity_tracking_title">Activity Tracking</string>
+
+    <!-- Nutrition Tracking Screen -->
+    <string name="nutrition_tracking_title">Nutrition Tracking</string>
+    <string name="activity_tracking">Activity Tracking</string>
+
+        <string name="profile_image_description">Description of the profile image</string>
+</resources>
